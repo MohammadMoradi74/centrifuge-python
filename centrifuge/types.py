@@ -29,7 +29,7 @@ class ClientInfo:
 
 
 @dataclass
-Publication:
+class Publication:
     """Publication represents a data published to channel.
 
     Attributes
